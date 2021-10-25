@@ -15,3 +15,22 @@
 .heading_div2{
     font-size:18px;
 }
+.result_para_tag{
+    font-size:20;
+box-shadow: 5px 5px 5px powderblue;
+}
+.copy_right_footer{
+    position:fixed;
+    color:midnightblue;
+    bottom:0;
+    width:100%;
+    background-color:springgreen;
+    line-height:3;
+    text-align:center;
+}
+canvas{
+    border:5px solid steelblue;
+    border-radius:20px;
+    box-shadow: 5px 5px 15px lightyellow;
+    margin-top:90px;
+}
